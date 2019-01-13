@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="22px" viewBox="0 0 29 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>radio</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="radio" transform="translate(1.000000, 1.000000)" stroke="#000000" stroke-width="2">
+            <ellipse id="Oval" cx="13.5" cy="10" rx="2.7" ry="2.75"></ellipse>
+            <path d="M19.224,4.17 C20.744994,5.71743812 21.5996219,7.8172487 21.5996219,10.006875 C21.5996219,12.1965013 20.744994,14.2963119 19.224,15.84375 M7.776,15.83 C6.25500595,14.2825619 5.40037808,12.1827513 5.40037808,9.993125 C5.40037808,7.8034987 6.25500595,5.70368812 7.776,4.15625 M23.0445,0.27875 C28.3146562,5.64812296 28.3146562,14.351877 23.0445,19.72125 M3.9555,19.72125 C-1.31465617,14.351877 -1.31465617,5.64812296 3.9555,0.27875" id="Shape"></path>
+        </g>
+    </g>
+</svg>

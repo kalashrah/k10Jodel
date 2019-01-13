@@ -1,0 +1,17 @@
+Package: com.kalashrah.k10Jodel
+Name: k10Jodel
+Version: 0.1-1
+Description: 
+Section: System
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: MacBook 10
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: 
+Icon: 
+

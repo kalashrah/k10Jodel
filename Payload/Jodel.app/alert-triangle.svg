@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="25px" viewBox="0 0 28 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>alert-triangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="alert-triangle" transform="translate(1.000000, 1.000000)">
+            <path d="M10.9247092,1.32113414 L0.791209182,18.5052693 C0.366058761,19.2531555 0.363520368,20.1740347 0.784541076,20.9243275 C1.20556178,21.6746204 1.98690477,22.1416338 2.83705157,22.1511254 L23.1040516,22.1511254 C23.9541984,22.1416338 24.7355413,21.6746204 25.1565621,20.9243275 C25.5775828,20.1740347 25.5750444,19.2531555 25.1498939,18.5052693 L15.0163939,1.32113414 C14.5826207,0.594735373 13.8069376,0.151125435 12.9705516,0.151125435 C12.1341655,0.151125435 11.3584824,0.594735373 10.9247092,1.32113414 Z" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M13,7.73684211 L13,12.7368421" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M13.0001534,15.4736842 C12.3984939,15.4736842 11.9090909,15.9695431 11.9090909,16.5790121 C11.9090909,17.188507 12.3984939,17.6842105 13.0001534,17.6842105 C13.6015828,17.6842105 14.0909091,17.188507 14.0909091,16.5790121 C14.0909091,15.9695431 13.6015573,15.4736842 13.0001534,15.4736842 Z" id="Shape" fill="#000000"></path>
+        </g>
+    </g>
+</svg>

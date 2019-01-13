@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="22px" viewBox="0 0 29 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 28</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group-28" transform="translate(1.000000, 1.000000)" stroke-width="2" stroke="#000000">
+            <g id="Group-20">
+                <path d="M19,20 L19,17.6666667 C19,15.0893378 16.7315761,13 13.9333333,13 L5.06666667,13 C2.26842393,13 2.812565e-16,15.0893378 0,17.6666667 L0,20" id="Shape"></path>
+                <circle id="Oval" cx="9.5" cy="4.5" r="4.5"></circle>
+            </g>
+            <g id="Group-19" transform="translate(19.000000, 3.000000)">
+                <path d="M4,0 L4,8" id="Shape"></path>
+                <path d="M8,4 L0,4" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

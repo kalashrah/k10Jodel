@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="12px" viewBox="0 0 20 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>video</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-281.000000, -177.000000)" fill="#595959">
+            <path d="M296,181.5 L301,179 L301,187 L296,184.5 L296,187 C296,188.104569 295.104569,189 294,189 L283,189 C281.895431,189 281,188.104569 281,187 L281,179 L281,179 C281,177.895431 281.895431,177 283,177 L283,177 L294,177 C295.104569,177 296,177.895431 296,179 L296,181.5 Z" id="video"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>bell copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="bell-copy" transform="translate(1.000000, 1.000000)" stroke="#000000" stroke-width="2">
+            <path d="M25,18.75 L0,18.75 C2.07106781,18.75 3.75,17.0710678 3.75,15 L3.75,8.75 C3.75000007,3.91750849 7.66750849,1.30385159e-07 12.5,1.30385159e-07 C17.3324915,1.3038516e-07 21.2499999,3.91750849 21.25,8.75 L21.25,15 C21.25,17.0710678 22.9289322,18.75 25,18.75 L25,18.75 Z M14.6625,23.75 C14.2152528,24.5210054 13.3913358,24.9955703 12.5,24.9955703 C11.6086642,24.9955703 10.7847472,24.5210054 10.3375,23.75 L14.6625,23.75 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

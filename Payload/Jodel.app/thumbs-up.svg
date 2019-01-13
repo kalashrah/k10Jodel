@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>thumbs-up</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="thumbs-up" transform="translate(1.000000, 1.000000)" stroke="#000000" stroke-width="2">
+            <path d="M13.8,8.05 L13.8,3.45 C13.8,1.54461761 12.2553824,5.77315973e-16 10.35,-4.4408921e-16 L5.75,10.35 L5.75,23 L18.722,23 C19.8688798,23.0129655 20.8500303,22.1789875 21.022,21.045 L22.609,10.695 C22.7102644,10.0278336 22.5134318,9.34985512 22.0706373,8.84064149 C21.6278428,8.33142786 20.9837645,8.04235866 20.309,8.05 L13.8,8.05 Z M5.75,23 L2.3,23 C1.02974508,23 0,21.9702549 0,20.7 L0,12.65 C-2.55351296e-16,11.3797451 1.02974508,10.35 2.3,10.35 L5.75,10.35 L5.75,23 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

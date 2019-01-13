@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>link</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="link" transform="translate(1.000000, 1.000000)" stroke="#000000" stroke-width="2">
+            <path d="M8.4,11.55 C9.31240326,12.7697776 10.7096087,13.5331354 12.2289824,13.64195 C13.7483561,13.7507646 15.2400841,13.1943064 16.317,12.117 L19.467,8.967 C21.4566041,6.90701084 21.42815,3.63255492 19.4030475,1.60745248 C17.3779451,-0.417649963 14.1034892,-0.4461041 12.0435,1.5435 L10.2375,3.339" id="Shape"></path>
+            <path d="M12.6,9.45 C11.6875967,8.23022243 10.2903913,7.46686455 8.77101764,7.35804999 C7.25164395,7.24923543 5.75991591,7.80569357 4.683,8.883 L1.533,12.033 C-0.4566041,14.0929892 -0.428149963,17.3674451 1.59695248,19.3925475 C3.62205492,21.41765 6.89651084,21.4461041 8.9565,19.4565 L10.752,17.661" id="Shape"></path>
+        </g>
+    </g>
+</svg>

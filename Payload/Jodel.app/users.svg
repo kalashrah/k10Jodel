@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="22px" viewBox="0 0 29 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 23</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group-23" transform="translate(1.000000, 1.000000)" stroke="#000000" stroke-width="2">
+            <path d="M19,20 L19,17.6666667 C19,15.0893378 16.7315761,13 13.9333333,13 L5.06666667,13 C2.26842393,13 2.812565e-16,15.0893378 0,17.6666667 L0,20" id="Shape"></path>
+            <circle id="Oval" cx="9.5" cy="4.5" r="4.5"></circle>
+            <path d="M26.5775128,20 L26.5775128,17.6149915 C26.5758913,15.4411966 25.1047686,13.5434483 23,13" id="Shape"></path>
+            <g id="Group-21" transform="translate(17.000000, 0.000000)">
+                <path d="M0.666666667,0.144444444 C2.6332387,0.647966431 4.00871473,2.41999016 4.00871473,4.45 C4.00871473,6.48000984 2.6332387,8.25203357 0.666666667,8.75555556" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
